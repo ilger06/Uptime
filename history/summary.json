@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prc-ilger",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
-    "time": 1127,
-    "timeDay": 954,
-    "timeWeek": 1073,
-    "timeMonth": 1123,
-    "timeYear": 1127,
-    "dailyMinutesDown": {
-      "2023-12-28": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1126,
+    "timeDay": 976,
+    "timeWeek": 1020,
+    "timeMonth": 1126,
+    "timeYear": 1126,
+    "dailyMinutesDown": {}
   },
   {
     "name": "ACIS_MOM01",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 888,
-    "timeDay": 816,
-    "timeWeek": 900,
+    "time": 887,
+    "timeDay": 803,
+    "timeWeek": 868,
     "timeMonth": 905,
-    "timeYear": 888,
+    "timeYear": 887,
     "dailyMinutesDown": {}
   }
 ]
