@@ -1,7 +1,7 @@
 url: $ACIS_MOM01
-status: down
-code: 500
-responseTime: 676
-lastUpdated: 2024-02-15T04:36:11.869Z
+status: up
+code: 200
+responseTime: 1048
+lastUpdated: 2024-02-15T04:43:25.279Z
 startTime: 2023-10-18T06:48:07.114Z
 generator: Upptime <https://github.com/upptime/upptime>
