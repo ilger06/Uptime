@@ -22,17 +22,19 @@
     "url": "$ACIS_MOM01",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acis-mom-01",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 877,
-    "timeDay": 1079,
-    "timeWeek": 857,
-    "timeMonth": 867,
-    "timeYear": 877,
-    "dailyMinutesDown": {}
+    "time": 875,
+    "timeDay": 878,
+    "timeWeek": 837,
+    "timeMonth": 861,
+    "timeYear": 875,
+    "dailyMinutesDown": {
+      "2024-02-15": 0
+    }
   }
 ]
