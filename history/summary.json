@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1106,
-    "timeDay": 1300,
-    "timeWeek": 1048,
-    "timeMonth": 1055,
-    "timeYear": 1106,
+    "time": 1107,
+    "timeDay": 1399,
+    "timeWeek": 1096,
+    "timeMonth": 1027,
+    "timeYear": 1107,
     "dailyMinutesDown": {}
   },
   {
@@ -24,15 +24,15 @@
     "slug": "acis-mom-01",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "97.54%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.65%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
-    "time": 859,
-    "timeDay": 774,
-    "timeWeek": 742,
+    "time": 861,
+    "timeDay": 1117,
+    "timeWeek": 799,
     "timeMonth": 792,
-    "timeYear": 859,
+    "timeYear": 861,
     "dailyMinutesDown": {
       "2024-03-07": 35
     }
