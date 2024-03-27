@@ -4,10 +4,10 @@
     "url": "$PRC_ILGER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prc-ilger",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1104,
@@ -15,14 +15,16 @@
     "timeWeek": 1129,
     "timeMonth": 1066,
     "timeYear": 1104,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-27": 1
+    }
   },
   {
     "name": "ACIS_MOM01",
     "url": "$ACIS_MOM01",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "acis-mom-01",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +36,7 @@
     "timeMonth": 807,
     "timeYear": 857,
     "dailyMinutesDown": {
+      "2024-03-27": 0,
       "2024-03-07": 35
     }
   }
