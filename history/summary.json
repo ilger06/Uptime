@@ -4,7 +4,7 @@
     "url": "$PRC_ILGER",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prc-ilger",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1044,
     "timeYear": 1073,
     "dailyMinutesDown": {
+      "2025-04-30": 0,
       "2024-10-01": 23,
       "2024-08-13": 930,
       "2024-08-12": 151
